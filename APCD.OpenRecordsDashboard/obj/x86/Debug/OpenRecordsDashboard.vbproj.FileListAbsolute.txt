@@ -1,0 +1,15 @@
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\bin\Debug\OpenRecordsDashboard.exe
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\bin\Debug\OpenRecordsDashboard.pdb
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\bin\Debug\OpenRecordsDashboard.xml
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\obj\x86\Debug\OpenRecordsDashboard.exe
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\obj\x86\Debug\OpenRecordsDashboard.xml
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\obj\x86\Debug\OpenRecordsDashboard.pdb
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\bin\Debug\APCD.Common.Applications.dll
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\bin\Debug\APCD.Common.dll
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\bin\Debug\APCD.PeopleLibrary.dll
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\bin\Debug\APCD.Tools.dll
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\obj\x86\Debug\APCD.OpenRecordsDashboard.MainForm.resources
+C:\Users\bfrazar\documents\visual studio 2010\Projects\OpenRecordsDashboard\OpenRecordsDashboard\obj\x86\Debug\APCD.OpenRecordsDashboard.Resources.resources

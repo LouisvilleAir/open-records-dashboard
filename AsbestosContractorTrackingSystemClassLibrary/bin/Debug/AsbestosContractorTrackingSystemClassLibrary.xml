@@ -1,0 +1,2812 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+AsbestosContractorTrackingSystemClassLibrary
+</name>
+</assembly>
+<members>
+<member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.countyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.dbfilesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98actnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98advfDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98formDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98letrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98oficDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98permDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98wkrsDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99billDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99cntrDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99prtyDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99siteDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99tbleDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.letterdDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.lettersDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.p_codesDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.q_condtnDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.q_reportDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.qbecatDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.qbefieldDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.qbejoinDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.userDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.countyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.dbfilesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98actnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98advfRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98formRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98letrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98oficRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98permRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98wkrsRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99billRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99cntrRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99prtyRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99siteRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99tbleRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.letterdRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.lettersRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.p_codesRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.q_condtnRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.q_reportRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.qbecatRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.qbefieldRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.qbejoinRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.userRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.countyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.dbfilesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc00wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc01wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc02wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc03wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc04wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc05wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc06wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc07wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc08wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc09wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc96wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc97wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98actnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98advfRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98formRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98letrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98oficRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98permRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc98wkrsRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99billRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99cntrRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99prtyRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99siteRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.jc99tbleRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.letterdRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.lettersRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.p_codesRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.q_condtnRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.q_reportRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.qbecatRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.qbefieldRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.qbejoinRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet.userRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.countyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.dbfilesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc00wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc01wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc02wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc03wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc04wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc05wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc06wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc07wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc08wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc09wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc96wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc97wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98actnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98advfTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98formTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98letrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98oficTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98permTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc98wkrsTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc99billTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc99cntrTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc99prtyTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc99siteTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.jc99tbleTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.letterdTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.lettersTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.p_codesTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.q_condtnTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.q_reportTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.qbecatTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.qbefieldTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.qbejoinTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.userTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.TableAdapterManager.UpdateAll(AsbestosContractorTrackingSystemClassLibrary.ACTSDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.ACTSDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member><member name="P:AsbestosContractorTrackingSystemClassLibrary.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:AsbestosContractorTrackingSystemClassLibrary.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:AsbestosContractorTrackingSystemClassLibrary.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

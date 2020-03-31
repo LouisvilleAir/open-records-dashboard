@@ -1,0 +1,29 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+OpenRecordsDashboard
+</name>
+</assembly>
+<members>
+<member name="T:APCD.OpenRecordsDashboard.GlobalVariables.AppointmentTypeEnum">
+	<summary>
+ Specifies the appointment type for a calendar item.
+ </summary>
+	<remarks>The values here must match the AppointmentTypeID values in the AppointmentType.</remarks>
+</member><member name="P:APCD.OpenRecordsDashboard.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:APCD.OpenRecordsDashboard.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:APCD.OpenRecordsDashboard.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,11 @@
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\bin\Debug\AsbestosContractorTrackingSystemClassLibrary.dll.config
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\bin\Debug\AsbestosContractorTrackingSystemClassLibrary.dll
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\bin\Debug\AsbestosContractorTrackingSystemClassLibrary.pdb
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\bin\Debug\AsbestosContractorTrackingSystemClassLibrary.xml
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\obj\Debug\AsbestosContractorTrackingSystemClassLibrary.Resources.resources
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\obj\Debug\AsbestosContractorTrackingSystemClassLibrary.dll
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\obj\Debug\AsbestosContractorTrackingSystemClassLibrary.xml
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\AsbestosContractorTrackingSystemClassLibrary\obj\Debug\AsbestosContractorTrackingSystemClassLibrary.pdb

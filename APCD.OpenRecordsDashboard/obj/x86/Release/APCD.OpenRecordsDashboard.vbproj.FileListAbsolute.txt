@@ -1,0 +1,64 @@
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.exe
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.pdb
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.xml
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Common.Applications.dll
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Common.dll
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Controls.dll
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.DataProviderLibrary.dll
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.PeopleLibrary.dll
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Tools.dll
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.MainForm.resources
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.Resources.resources
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.splashScreenForm.resources
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.exe
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.xml
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.pdb
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.exe.manifest
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.application
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.exe.manifest
+C:\Users\bfrazar\Documents\Visual Studio 2010\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.application
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.exe
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.xml
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.pdb
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.exe.manifest
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.application
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.exe
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.pdb
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.xml
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Common.Applications.dll
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Common.dll
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Controls.dll
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.DataProviderLibrary.dll
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.PeopleLibrary.dll
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Tools.dll
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.vbprojResolveAssemblyReference.cache
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.MainForm.resources
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.Resources.resources
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.splashScreenForm.resources
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.vbproj.GenerateResource.Cache
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.exe.manifest
+C:\Users\bfrazar\Documents\Visual Studio 2013\Projects\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.application
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.exe
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.xml
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.pdb
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.vbprojResolveAssemblyReference.cache
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.MainForm.resources
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.Resources.resources
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.splashScreenForm.resources
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.vbproj.GenerateResource.Cache
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.exe.manifest
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.application
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.exe
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.pdb
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.OpenRecordsDashboard.xml
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Common.Applications.dll
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Common.dll
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Controls.dll
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.DataProviderLibrary.dll
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.PeopleLibrary.dll
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\bin\Release\APCD.Tools.dll
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.exe.manifest
+C:\Users\bfrazar\Source\Repos\APCD.OpenRecordsDashboard\APCD.OpenRecordsDashboard\obj\x86\Release\APCD.OpenRecordsDashboard.application
